@@ -1,3 +1,3 @@
 Groupies
 ========
-*Grant
+* Grant
